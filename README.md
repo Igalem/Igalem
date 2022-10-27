@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Igal Emona</h1>
 <h3 align="center">A passionate Data Engineer from 🇮🇱</h3>
 
+<div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=igalem&label=Profile%20views&color=0e75b6&style=flat" alt="igalem" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=igalem" alt="igalem" /></a> </p>
+  <img align="right" width="400" src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" alt="developing" />
+  </div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
